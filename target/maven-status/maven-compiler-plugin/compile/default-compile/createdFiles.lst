@@ -1,0 +1,6 @@
+com\ui\tests\utils\CommonUtils.class
+com\ui\tests\pages\LoginPage.class
+com\ui\tests\utils\ConfigReader.class
+com\ui\tests\utils\SeleniumUtils.class
+com\ui\tests\pages\HomePage.class
+com\ui\tests\pages\AccountPage.class

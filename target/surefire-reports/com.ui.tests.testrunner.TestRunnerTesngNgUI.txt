@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ui.tests.testrunner.TestRunnerTesngNgUI
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.99 s -- in com.ui.tests.testrunner.TestRunnerTesngNgUI

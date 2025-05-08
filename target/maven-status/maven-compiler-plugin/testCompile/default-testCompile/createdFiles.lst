@@ -1,0 +1,4 @@
+com\ui\tests\driver\DriverFactory.class
+com\ui\tests\stepdefinition\LoginTestStepDefinition.class
+com\ui\tests\testrunner\TestRunnerTesngNgUI.class
+com\ui\tests\hooks\MyHooks.class
