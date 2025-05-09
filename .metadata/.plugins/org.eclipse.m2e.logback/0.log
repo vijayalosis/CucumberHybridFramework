@@ -1,0 +1,9 @@
+2025-05-09 12:24:26,027 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-05-09 12:28:22,546 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: WebUiAuto:UITestAutomationFramework:0.0.1-SNAPSHOT @ C:\Users\Vijay\git\CucumberHybridFramework\pom.xml.
+2025-05-09 12:28:26,433 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UITestAutomationFramework/src/main/java
+2025-05-09 12:28:26,437 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UITestAutomationFramework/src/main/resources
+2025-05-09 12:28:26,440 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UITestAutomationFramework/src/test/java
+2025-05-09 12:28:26,442 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UITestAutomationFramework/src/test/resources
+2025-05-09 12:28:26,756 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2025-05-09 12:28:51,233 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vijay\git\CucumberHybridFramework\src\main\resources
+2025-05-09 12:28:51,262 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\test\resources to target\test-classes
