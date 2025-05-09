@@ -3,6 +3,8 @@
 name: Test Automation WorkFlow
 
 on:
+schedule:
+- Cron 00 18 * * *
   push:
     branches: [ main ]
   pull_request:
@@ -26,19 +28,12 @@ jobs:
     - name: Running Test Automation Framework With Maven
       run: mvn test 
 
-   - name: Upload Test logs
-     if: always()
-     uses: actions/upload-artifact@v4.6.2
-     with:
-      name: Test Logs
-       path: logs/
-
-       - name: Upload Test Reports
+      - name: Upload Test Reports
      if: always()
      uses: actions/upload-artifact@v4.6.2
      with:
       name: Test cucumber Reports
-       path: Cucumber-reports.html
+       path: CucumberReports
 
        - name: Upload Test Reports
          run: echo "Tests Completed"
